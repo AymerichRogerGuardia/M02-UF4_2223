@@ -1,0 +1,22 @@
+{
+  "name": "m02-uf4_2223",
+  "version": "1.0.0",
+  "description": "Primer proyecto de Node y Mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AymerichRogerGuardia/M02-UF4_2223.git"
+  },
+  "author": "Roger Aymerich",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/AymerichRogerGuardia/M02-UF4_2223/issues"
+  },
+  "homepage": "https://github.com/AymerichRogerGuardia/M02-UF4_2223#readme",
+  "dependencies": {
+    "mongodb": "^5.0.0"
+  }
+}
